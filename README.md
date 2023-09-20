@@ -1,7 +1,7 @@
 ## 1- Dashboard :
 </p>
   <p float="left">
-  <img src='DashBoard\screen one.png'/>
+  <img src='Dashboard\Screen one.png'/>
   </p>
-  <img src='DashBoard\screen two.png'/>
+  <img src='Dashboard\Screen two.png'/>
 </p>
