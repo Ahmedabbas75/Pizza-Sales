@@ -3,5 +3,5 @@
   <p float="left">
   <img src='Dashboard\Screen one.png' width='500'/>
   </p>
-  <img src='Dashboard\Screen two.png'/>
+  <img src='Dashboard\Screen two.png'  width='500'/>
 </p>
