@@ -8,7 +8,7 @@
 </p>
 __________________________________________________________________________________________________________________________
 ## 2- About Dataset
-  - `pizza_id` : Unique key identifier that ties the pizza ordered to its details, like size and price
+- `pizza_id` : Unique key identifier that ties the pizza ordered to its details, like size and price
   - `order_id` : Unique identifier for each order placed by a table
 
 
