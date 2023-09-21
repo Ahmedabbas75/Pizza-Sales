@@ -7,10 +7,11 @@
   <img src='Dashboard\Screen four.png'/>
 </p>
 __________________________________________________________________________________________________________________________
+
 ## 2- YouTube Demo : [@Link](https://youtu.be/LyJJa4ViABo?si=Q_blaaMpfnPW7G2M)
 __________________________________________________________________________________________________________________________
 
-## 2- Data Description :
+## 3- Data Description :
 - `pizza_id` : Unique key identifier that ties the pizza ordered to its details, like size and price
 - `order_id` : Unique identifier for each order placed by a table
 - `quantity` : Quantity ordered for each pizza of the same type and size
@@ -25,7 +26,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________
 
-## 3- In Mind Questions :
+## 4- In Mind Questions :
 - ### General Questions related to the existence of :
   - missing values?
   - wrong datatypes for columns?
@@ -49,7 +50,7 @@ ________________________________________________________________________________
   - What is name of `pizza` that has higher `price`?
 __________________________________________________________________________________________________________________________
 
-## 4- Conclusion :
+## 5- Conclusion :
 - `Breakfast Orders`, Limited orders during early hours suggest breakfast is less popular for pizza consumption, with customers favoring alternative morning food choices.
 - `Lunch Rush`, The 12 PM - 2 PM timeframe sees the highest customer influx due to lunch breaks, highlighting the shop's convenience for quick meals.
 - `Sunday` are the least busy orders.
@@ -57,7 +58,7 @@ ________________________________________________________________________________
 - `Large Size Preference`, Customers opt for large pizzas, often ordering in groups for sharing among family, friends, or colleagues.
 __________________________________________________________________________________________________________________________
 
-## 5- Summary :
+## 6- Summary :
 **In the beginning, I created the database on a SQL server called Pizza Sales, create table named Pizza Sales and add dataset with format CSV to it .**
 
 **Additionally, I created two files :**
