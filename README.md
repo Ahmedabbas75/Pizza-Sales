@@ -29,5 +29,21 @@ ________________________________________________________________________________
   - wrong datatypes for columns?
   - complete duplicates in the data?
   - outliers in numerical columns?
+ 
+- ### Business Questions :
+  - What is `Total Revenue`?
+  - What is `Average Order Value`?
+  - What is `Total Pizzas Sold`?
+  - What is `Total Orders`?
+  - Which Daily Trend for `Total Orders`?
+  - There is Monthly Trend for `Orders`?
+  - There is Sales by `Category` more than other `Category`?
+  - Which Sales by `Pizza Size`?
+  - What is `Total Quantity` by Pizza `Category`?
+  - What is` Top 5 Pizzas by Revenue`?
+  - What is `Top 5 Pizzas by Quantity`?
+  - What is `Hour` has greater total orders?
+  - What is name of `pizza` that has lowest `price`?
+  - What is name of `pizza` that has higher `price`?
 
 
