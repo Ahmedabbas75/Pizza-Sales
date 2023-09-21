@@ -7,8 +7,8 @@
   <img src='Dashboard\Screen four.png'/>
 </p>
 __________________________________________________________________________________________________________________________
-## 2- Data Description :
 
+## 2- Data Description :
 - `pizza_id` : Unique key identifier that ties the pizza ordered to its details, like size and price
 - `order_id` : Unique identifier for each order placed by a table
 - `quantity` : Quantity ordered for each pizza of the same type and size
