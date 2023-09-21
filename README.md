@@ -56,7 +56,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 ## 5- Summary :
-*** In the beginning, I created the database on a SQL server called Pizza Sales, create table named Pizza Sales and add dataset with format CSV to it . ***
+** In the beginning, I created the database on a SQL server called Pizza Sales, create table named Pizza Sales and add dataset with format CSV to it . **
 
 ### Additionally, I created two files:
   - Pizza Sales.sql, SQL Query  related to questions to Ensure Data Integrity.
