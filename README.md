@@ -45,5 +45,13 @@ ________________________________________________________________________________
   - What is `Hour` has greater total orders?
   - What is name of `pizza` that has lowest `price`?
   - What is name of `pizza` that has higher `price`?
+__________________________________________________________________________________________________________________________
+
+## 4- Conclusion :
+- Breakfast Orders, Limited orders during early hours suggest breakfast is less popular for pizza consumption, with customers favoring alternative morning food choices.
+- Lunch Rush, The 12 PM - 2 PM timeframe sees the highest customer influx due to lunch breaks, highlighting the shop's convenience for quick meals.
+- Sunday are the least busy orders.
+- Seasonal Sales, Spring sales peak, while autumn sees lower numbers, influenced by factors like weather and cultural preferences.
+- Large Size Preference, Customers opt for large pizzas, often ordering in groups for sharing among family, friends, or colleagues.
 
 
