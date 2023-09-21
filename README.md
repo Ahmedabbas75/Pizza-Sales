@@ -21,4 +21,13 @@ ________________________________________________________________________________
 - `pizza_ingredients` : ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified; and they all include Tomato Sauce, unless another sauce is specified)
 - `pizza_name` : Name of the pizza as shown in the menu
 
+__________________________________________________________________________________________________________________________
+
+## 3- In Mind Questions :
+- ### General Questions related to the existence of :
+  - missing values?
+  - wrong datatypes for columns?
+  - complete duplicates in the data?
+  - outliers in numerical columns?
+
 
