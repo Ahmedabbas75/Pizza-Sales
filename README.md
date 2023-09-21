@@ -58,9 +58,9 @@ ________________________________________________________________________________
 ## 5- Summary :
 **In the beginning, I created the database on a SQL server called Pizza Sales, create table named Pizza Sales and add dataset with format CSV to it .**
 
-### Additionally, I created two files:
+**Additionally, I created two files :**
   - Pizza Sales.sql, SQL Query  related to questions to Ensure Data Integrity.
 
   - Cleaning.sql , Sql Query to Cleaning and  Preprocessing such as add new columns and Amendments.
 
-### In the end, i create dynamic dashboard conected directly with SQL server using Direct mode  Power Bi to answer business questions.
+**In the end, i create dynamic dashboard conected directly with SQL server using Direct mode  Power Bi to answer business questions.**
