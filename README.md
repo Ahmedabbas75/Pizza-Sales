@@ -48,10 +48,19 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 ## 4- Conclusion :
-- Breakfast Orders, Limited orders during early hours suggest breakfast is less popular for pizza consumption, with customers favoring alternative morning food choices.
-- Lunch Rush, The 12 PM - 2 PM timeframe sees the highest customer influx due to lunch breaks, highlighting the shop's convenience for quick meals.
-- Sunday are the least busy orders.
-- Seasonal Sales, Spring sales peak, while autumn sees lower numbers, influenced by factors like weather and cultural preferences.
-- Large Size Preference, Customers opt for large pizzas, often ordering in groups for sharing among family, friends, or colleagues.
+- `Breakfast Orders`, Limited orders during early hours suggest breakfast is less popular for pizza consumption, with customers favoring alternative morning food choices.
+- `Lunch Rush`, The 12 PM - 2 PM timeframe sees the highest customer influx due to lunch breaks, highlighting the shop's convenience for quick meals.
+- `Sunday` are the least busy orders.
+- `Seasonal Sales`, Spring sales peak, while autumn sees lower numbers, influenced by factors like weather and cultural preferences.
+- `Large Size Preference`, Customers opt for large pizzas, often ordering in groups for sharing among family, friends, or colleagues.
+__________________________________________________________________________________________________________________________
 
+## 5- Summary :
+### In the beginning, I created the database on a SQL server called Pizza Sales, create table named Pizza Sales and add dataset with format CSV to it . 
 
+### Additionally, I created two files:
+  - Pizza Sales.sql, SQL Query  related to questions to Ensure Data Integrity.
+
+  - Cleaning.sql , Sql Query to Cleaning and  Preprocessing such as add new columns and Amendments.
+
+### In the end, i create dynamic dashboard conected directly with SQL server using Direct mode  Power Bi to answer business questions.
